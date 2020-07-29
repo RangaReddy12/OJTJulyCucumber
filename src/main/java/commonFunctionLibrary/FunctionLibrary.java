@@ -158,4 +158,8 @@ public class FunctionLibrary {
 			}
 			
 		}
+		public static void verifyLogin()
+		{
+			System.out.println("Login");
+		}
 }
